@@ -1,1 +1,1 @@
-Fitting SPHEREx data to BT-Settl models
+Fitting BT-Settl models to SPHEREx data
